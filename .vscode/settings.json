@@ -1,0 +1,28 @@
+{
+  "cSpell.words": [
+    "clsx",
+    "Flickr",
+    "galaxyz",
+    "lucide",
+    "merch",
+    "merchandisings",
+    "Parens",
+    "plusplus",
+    "sonner",
+    "tailwindcss",
+    "zustand"
+  ],
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.format": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.tabSize": 2,
+  "prettier.configPath": ".prettierrc.json",
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  }
+}
